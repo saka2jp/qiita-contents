@@ -20,7 +20,7 @@ https://posthog.com/blog/what-is-a-product-engineer
 Deep Researchなど生成AIを利用した内容を元にしています。
 :::
 
-## 1. 著者はどんな人物か：Ian Vanagas氏
+## 1. 著者はどんな人物か：Ian Vanagas（イアン・ヴァナガス）氏
 
 この記事の著者であるIan Vanagas氏は、どのような人物なのでしょうか。
 
