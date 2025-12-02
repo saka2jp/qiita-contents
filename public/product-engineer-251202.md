@@ -3,7 +3,7 @@ title: 『What is a product engineer (and why they're awesome)』解説と考察
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-03T06:30:29+09:00'
+updated_at: '2025-12-03T07:31:36+09:00'
 id: 29eea9061c389d36797f
 organization_url_name: null
 slide: false

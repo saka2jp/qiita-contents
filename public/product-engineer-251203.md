@@ -3,8 +3,8 @@ title: 『Product Engineers』解説と考察
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: ""
-id: null
+updated_at: '2025-12-03T07:33:00+09:00'
+id: c24daa5385073d7d4c30
 organization_url_name: null
 slide: false
 ignorePublish: false
