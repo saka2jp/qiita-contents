@@ -135,11 +135,11 @@ CSSだけでリッチな見た目を作ります。
 
 ---
 
-### 💻 実装サンプル (ヒント)
+### 💻 実装サンプル 
 
 まずは自分で書いてみて、詰まったら以下のコードを参考にしてください。
 
-<details><summary>ヒント！</summary>
+<details><summary>正解例</summary>
 
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="qEZyMmN" data-pen-title="Untitled" data-user="saka2jp" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
       <span>See the Pen <a href="https://codepen.io/saka2jp/pen/qEZyMmN">
@@ -171,6 +171,8 @@ CSSだけでリッチな見た目を作ります。
     *   答えは **30px** になります。
 
 ---
+
+## なぜ、マージンの相殺（Margin Collapse）は起こるのか？
 
 ### 1. 直感的なイメージ：お互いの「縄張り」は重ねてOK
 
@@ -206,8 +208,6 @@ CSSだけでリッチな見た目を作ります。
 
 **「段落がいくつ続いても、行間を一定（20px）に保ちたい」**
 この要望を叶えるために、「縦方向のマージンは重ねる」という仕様が生まれました。
-
----
 
 ### まとめ
 

@@ -7,7 +7,7 @@ tags:
   - djangoCMS
   - Wagtail
 private: false
-updated_at: '2020-01-07T01:39:53+09:00'
+updated_at: '2025-12-02T10:42:28+09:00'
 id: 5ec4ef7a5615b3c2e9ac
 organization_url_name: null
 slide: false
