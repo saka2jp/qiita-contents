@@ -7,7 +7,7 @@ tags:
 private: false
 updated_at: '2018-12-04T09:20:10+09:00'
 id: 1e2df958ed4021b61132
-organization_url_name: gitlab-jp
+organization_url_name: null
 slide: false
 ignorePublish: false
 ---

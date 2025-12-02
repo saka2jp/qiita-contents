@@ -9,7 +9,7 @@ tags:
 private: false
 updated_at: '2020-01-07T01:39:53+09:00'
 id: 5ec4ef7a5615b3c2e9ac
-organization_url_name: gitlab-jp
+organization_url_name: null
 slide: false
 ignorePublish: false
 ---
