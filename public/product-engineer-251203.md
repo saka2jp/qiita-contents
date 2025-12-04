@@ -26,7 +26,7 @@ Deep Research など生成 AI を利用した内容を元にしています。
 
 ### 経歴のハイライト
 
-Sherif Mansour氏は、Jira や Confluence で知られる**Atlassian（アトラシアン）**に 15 年以上在籍したベテランのプロダクトマネージャー（PM）です。「Distinguished Product Manager」として、同社のプロダクトマネジメント文化の形成に大きく貢献しました。
+Sherif Mansour氏は、Jira や Confluence で知られる**Atlassian（アトラシアン）**に 10 年以上在籍したベテランのプロダクトマネージャー（PM）です。「Distinguished Product Manager」として、同社のプロダクトマネジメント文化の形成に大きく貢献しました。
 
 ### 現在の活動
 
@@ -40,7 +40,7 @@ Sherif Mansour氏は、Jira や Confluence で知られる**Atlassian（アト�
 
 ## 2. なぜこのブログが執筆されたのか（背景の考察）
 
-この記事が書かれた背景には、著者と当時の Atlassian エンジニアリング責任者（後に Shopify の VP Engineering となる）Jean-Michel Lemieux 氏との対話があります。
+この記事が書かれた背景には、著者と当時の Atlassian エンジニアリング責任者（後に Shopify の SVP of Engineering、後に CTO となる）Jean-Michel Lemieux 氏との対話があります。
 
 ### 「成功するプロジェクト」の共通項
 
@@ -89,10 +89,10 @@ PM の究極の仕事は、自分自身を **「不要（Redundant）」**にす
     - 自律的に意思決定し、タスク管理を PM に依存しない。
     - _PM の役割：_ **バックログに触らない。** チームが自走できるだけのコンテキストを提供する。
 
+![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/160547/2a02302e-f333-4753-a016-925a3e3d4df1.png)
+
 ## さいごに
 
-Sherif Mansour 氏のこの記事は、エンジニアにとっては「キャリアの進化の指針」となり、PM にとっては「チームビルディングの教科書」となります。
+PM の視点を得られる貴重なブログでした。
 
-**「エンジニアにもっとコードを書いてほしい」ではなく、「エンジニアにもっと課題を理解してほしい」**と願うのであれば、PM がすべきことは仕様書を細かく書くことではありません。顧客の痛みやビジネスの背景という「共通認識（Shared Understanding）」を徹底的に共有し、あとは彼らを信じて任せること（Get out of the way）なのです。
-
-「プロダクトエンジニア」という言葉は、職種名ではなく、これからのプロダクト開発に不可欠な**マインドセット**そのものと言えるでしょう。
+**「エンジニアにもっとコードを書いてほしい」ではなく、「エンジニアにもっと課題を理解してほしい」**と願うのであれば、PM がすべきことは仕様書を細かく書くことではなく、顧客の痛みやビジネスの背景という「共通認識（Shared Understanding）」を徹底的に共有し、あとは彼らを信じて任せること（Get out of the way）なのだと学びました。
