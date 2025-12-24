@@ -3,7 +3,7 @@ title: '『Mastering Software Product Engineering: A Comprehensive Guide』解�
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-25T01:52:22+09:00'
+updated_at: '2025-12-25T03:10:04+09:00'
 id: 60e77cb9f091727e4869
 organization_url_name: null
 slide: false

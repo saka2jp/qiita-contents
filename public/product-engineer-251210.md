@@ -3,7 +3,7 @@ title: 『The dawn of the Product Engineer』解説と考察
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-17T09:54:53+09:00'
+updated_at: '2025-12-25T03:09:51+09:00'
 id: b60d14c959313063d813
 organization_url_name: null
 slide: false

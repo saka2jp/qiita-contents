@@ -8,7 +8,7 @@ updated_at: '2025-12-02T00:09:48+09:00'
 id: ed10721c26963abdf121
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 #renderとredirect_to
 ###redirect_to

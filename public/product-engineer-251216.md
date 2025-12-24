@@ -3,7 +3,7 @@ title: 『Making the transition from consultant to product engineer』解説と�
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-25T01:36:04+09:00'
+updated_at: '2025-12-25T03:10:02+09:00'
 id: 09b8901949ffadd2edfd
 organization_url_name: null
 slide: false

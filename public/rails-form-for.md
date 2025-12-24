@@ -8,7 +8,7 @@ updated_at: '2025-12-02T00:09:48+09:00'
 id: ee5af466ef7959567174
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 #form_forとは
 モデルの新規インスタンスに値を追加して保存したい時に使用するヘルパーメソッド。

@@ -9,7 +9,7 @@ updated_at: '2025-12-02T00:09:48+09:00'
 id: a61c72e93d8a962f5be7
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 社会人基礎力診断方法と診断結果の分析方法を紹介する記事です。
 

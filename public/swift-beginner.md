@@ -9,7 +9,7 @@ updated_at: '2025-12-02T00:09:48+09:00'
 id: 50b70ae1c576a9e83c72
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 # はじめに
 　YWT手法で9日間を振り返ってみます。ぜひみなさんのオススメの勉強方法を教えてください！

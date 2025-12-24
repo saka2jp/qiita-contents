@@ -3,7 +3,7 @@ title: 『What is a product engineer? Qualifications and expectations』解説�
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-06T17:41:03+09:00'
+updated_at: '2025-12-25T03:09:43+09:00'
 id: 7ddfc4ca25eef6182821
 organization_url_name: null
 slide: false

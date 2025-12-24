@@ -3,7 +3,7 @@ title: '『Engineering Productivity: How to Measure and Improve It』解説と�
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-25T02:23:28+09:00'
+updated_at: '2025-12-25T03:10:13+09:00'
 id: f67ad918f89bdcbacd21
 organization_url_name: null
 slide: false

@@ -3,7 +3,7 @@ title: '『From code to customer impact: The rise of the product engineer』解�
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-17T09:54:48+09:00'
+updated_at: '2025-12-25T03:09:49+09:00'
 id: ee166fb2716ca487b836
 organization_url_name: null
 slide: false

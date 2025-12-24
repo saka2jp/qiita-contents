@@ -9,7 +9,7 @@ updated_at: '2025-12-02T00:09:48+09:00'
 id: 624e0e8635200abca619
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 #はじめに
 　こんにちは。RSpec5日目の超初心者です。RSpecのコントローラーのテストについて、自分が初めて行ったコントローラーのテストのコードとともにまとめる記事にしたいと思います。

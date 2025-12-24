@@ -3,7 +3,7 @@ title: 『What Is a Product Engineer and Why the Industry Suddenly Needs Them』
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-06T00:38:57+09:00'
+updated_at: '2025-12-25T03:09:29+09:00'
 id: 1455203f42f36869ca55
 organization_url_name: null
 slide: false

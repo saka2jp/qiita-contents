@@ -3,7 +3,7 @@ title: 『The Rise of Product Engineers in the AI-Driven Era』解説と考察
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-25T02:09:06+09:00'
+updated_at: '2025-12-25T03:10:09+09:00'
 id: 919d18ebbd61c230e0ff
 organization_url_name: null
 slide: false

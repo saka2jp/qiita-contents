@@ -9,7 +9,7 @@ updated_at: '2025-12-02T00:09:48+09:00'
 id: 4c06ce27c5140e6aebae
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 #はじめに
 チャット機能を持つアプリケーションの実装中に、メッセージの２重送信を防ぎたいけど２重送信を防止したら連続送信できないじゃん！という現象にハマったのでその解決方法を記します。

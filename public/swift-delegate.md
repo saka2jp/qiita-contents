@@ -9,7 +9,7 @@ updated_at: '2025-12-02T00:09:48+09:00'
 id: 7667e0cc81ad91016f03
 organization_url_name: null
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 # はじめに
 プログラミング経験：Ruby3ヶ月。Python3ヶ月

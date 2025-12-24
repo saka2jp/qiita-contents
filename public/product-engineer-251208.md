@@ -3,7 +3,7 @@ title: 『What is a product engineer? Get an engineer who can do both』解説�
 tags:
   - プロダクトエンジニア
 private: false
-updated_at: '2025-12-17T09:55:23+09:00'
+updated_at: '2025-12-25T03:09:47+09:00'
 id: a546873c12dbbe2139f2
 organization_url_name: null
 slide: false
