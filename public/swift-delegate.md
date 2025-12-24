@@ -86,7 +86,7 @@ class ViewController: UIViewController, UITextFieldDelegate { // 追加記述①
 
 ## ①ViewControllerクラスがUITextFieldDelegateプロトコルに準拠することを宣言する
 
-クラスがプロトコルに準拠しているとは、**クラスがプロトコル（クラスの挙動を決めた設計図）を参照している**といったイメージだと思います。
+クラスがプロトコルに準拠しているとは、 **クラスがプロトコル（クラスの挙動を決めた設計図）を参照している** といったイメージだと思います。
 
 では、なぜクラスをプロトコルに準拠させるんでしょう。
 
@@ -107,7 +107,7 @@ UITextFieldDelegateに定義されているtextFieldShouldReturnを使うため�
 
 まとめると、この実装で
 
-**依頼するクラス(ViewController)にこのプロトコル(UITextFieldDelegate)を使いますよと教えてあげていた**ということになるかと思います。
+**依頼するクラス(ViewController)にこのプロトコル(UITextFieldDelegate)を使いますよと教えてあげていた** ということになるかと思います。
 
 
 ## ②inputTextのdelegateの通知先を自分自身に設定する
@@ -170,7 +170,7 @@ inputText.delegate = self
 
 に戻ってみましょう。
 
-これは、**UITextFieldクラスのインスタンスであるinputTextのdelegateプロパティにViewControllerのインスタンスを渡している**んでしたね。
+これは、 **UITextFieldクラスのインスタンスであるinputTextのdelegateプロパティにViewControllerのインスタンスを渡している** んでしたね。
 
 ふむふむ、なんだかさっきより飲み込めてきた気がします。
 
@@ -200,9 +200,9 @@ weak open var delegate: UITextFieldDelegate?
 同じように、delegateプロパティはUITextFieldDelegateを型宣言しています。
 UITextFieldDelegateとはプロトコルです。
 
-プロトコルを型宣言すると、**変数にはそのプロトコルに準拠している値（オブジェクト）を格納できるようになります。**
+プロトコルを型宣言すると、 **変数にはそのプロトコルに準拠している値（オブジェクト）を格納できるようになります。**
 
-つまりこれは、**UITextFieldDelegateプロトコルに準拠しているオブジェクトを代入できる変数delegateを定義しています。**
+つまりこれは、 **UITextFieldDelegateプロトコルに準拠しているオブジェクトを代入できる変数delegateを定義しています。**
 
 ※ プロトコルの型宣言についての参考サイト：[Swift プログラミング](https://ez-net.jp/article/79/kblLTu9C/EbTamNAA9jw_/)
 ※ オブジェクトについての参考サイト：[クラスとオブジェクトとインスタンスの関係
@@ -213,17 +213,17 @@ UITextFieldDelegateとはプロトコルです。
 inputText.delegate = self
 ```
 
-inputTextはUITextFieldクラスのインスタンスなので、これは**inputTextのdelegateプロパティにselfを代入している**という意味になります。
+inputTextはUITextFieldクラスのインスタンスなので、これは **inputTextのdelegateプロパティにselfを代入している** という意味になります。
 
 selfはViewControllerクラスのインスタンスですが、ViewControllerクラスは①でUITextFieldDelegateプロトコルに準拠する宣言をしています。
 
-すなわち、**そのインスタンスであるselfもまたUITextFieldDelegateに準拠しています。**
+すなわち、 **そのインスタンスであるselfもまたUITextFieldDelegateに準拠しています。**
 
 つまり、何を意味するかというと、
 **inputTextがreturnを押されたらViewController（私）に教えてね！**
 といったことかと思います。
 
-**returnが押されたら**という処理は③で実装するので、
+**returnが押されたら** という処理は③で実装するので、
 ②単体の意味は、
 
 **inputTextでUITextFieldDelegateプロトコルで定義されているメソッドが実行されたらViewController（私）に教えてね！**
@@ -238,7 +238,7 @@ selfはViewControllerクラスのインスタンスですが、ViewControllerク
 ここまで理解できてしまえば、③の実装は問題ないかと思います。
 依頼したい処理のメソッドとその後の処理を実装します。
 
-delegateから通知してほしいのは**returnが押されたら**というタイミングなので、その処理をしてくれるメソッドであるtextFieldShouldReturnを指定します。
+delegateから通知してほしいのは **returnが押されたら** というタイミングなので、その処理をしてくれるメソッドであるtextFieldShouldReturnを指定します。
 
 #まとめ
 ##一般的な説明
