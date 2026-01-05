@@ -3,7 +3,7 @@ title: CSSマスターへの道「Transition」
 tags:
   - CSS
 private: false
-updated_at: '2026-01-04T23:50:46+09:00'
+updated_at: '2026-01-05T21:28:45+09:00'
 id: 7b6f93e569e451d5fa2f
 organization_url_name: null
 slide: false
