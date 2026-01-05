@@ -3,7 +3,7 @@ title: CSSマスターへの道「ボーダーと角丸」
 tags:
   - CSS
 private: false
-updated_at: '2026-01-04T22:40:23+09:00'
+updated_at: '2026-01-05T21:28:51+09:00'
 id: 5549622b1d7e38e49f46
 organization_url_name: null
 slide: false

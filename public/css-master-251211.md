@@ -3,7 +3,7 @@ title: CSSマスターへの道「テキスト装飾とWebフォント」
 tags:
   - CSS
 private: false
-updated_at: '2026-01-04T22:47:55+09:00'
+updated_at: '2026-01-05T21:28:51+09:00'
 id: 96a16834fb4614c3d351
 organization_url_name: null
 slide: false

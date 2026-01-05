@@ -3,7 +3,7 @@ title: 'CSSマスターへの道「モダンCSS (:has / :is / :where)」'
 tags:
   - CSS
 private: false
-updated_at: '2026-01-05T00:34:30+09:00'
+updated_at: '2026-01-05T21:28:51+09:00'
 id: a3ae2ce83b06f672e817
 organization_url_name: null
 slide: false

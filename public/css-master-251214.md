@@ -3,7 +3,7 @@ title: CSSマスターへの道「クリップパス」
 tags:
   - CSS
 private: false
-updated_at: '2026-01-04T23:44:10+09:00'
+updated_at: '2026-01-05T21:28:51+09:00'
 id: 652f533e4cd226fc1cb2
 organization_url_name: null
 slide: false

@@ -3,7 +3,7 @@ title: CSSマスターへの道「Animation」
 tags:
   - CSS
 private: false
-updated_at: '2026-01-05T00:03:05+09:00'
+updated_at: '2026-01-05T21:28:51+09:00'
 id: cf1e9a6b6b45a9ae6993
 organization_url_name: null
 slide: false
